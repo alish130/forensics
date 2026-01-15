@@ -1,0 +1,39 @@
+﻿Created By AccessData® FTK® Imager 4.5.0.3 
+
+Case Information: 
+Acquired using: ADI4.5.0.3
+Case Number:  
+Evidence Number:  
+Unique Description: 
+Examiner:  
+Notes:  
+
+--------------------------------------------------------------
+
+Information for C:\Users\alish\Desktop\ddd\a:
+
+Physical Evidentiary Item (Source) Information:
+[Device Info]
+ Source Type: Physical
+[Drive Geometry]
+ Bytes per Sector: 512
+ Sector Count: 10,485,760
+[Image]
+ Image Type: Raw (dd)
+ Source data size: 5120 MB
+ Sector count:    10485760
+[Computed Hashes]
+ MD5 checksum:    21f92fd2afb604bd0067a6315ef87220
+ SHA1 checksum:   3719c9e72b542094e6bdeda35b185ec61cd3a78f
+
+Image Information:
+ Acquisition started:   Tue Jan  6 09:05:19 2026
+ Acquisition finished:  Tue Jan  6 09:06:03 2026
+ Segment list:
+  C:\Users\alish\Desktop\ddd\a.E01
+
+Image Verification Results:
+ Verification started:  Tue Jan  6 09:06:03 2026
+ Verification finished: Tue Jan  6 09:06:35 2026
+ MD5 checksum:    21f92fd2afb604bd0067a6315ef87220 : verified
+ SHA1 checksum:   3719c9e72b542094e6bdeda35b185ec61cd3a78f : verified
